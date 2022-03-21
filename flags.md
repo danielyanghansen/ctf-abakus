@@ -7,3 +7,5 @@ Sarah har sendt en lenke til Gmailkontoen dere fant i forrige steg. Gå inn på 
 # Flagg 3 (6 poeng)
 Gå inn på https://l8e9r.csb.app/ og finn koden som er gjemt.
 
+# Flagg 4 (10 poeng)
+Finn ut hvor bildet `IMG_3813` som ligger i `Top secret` er tatt. Løsningen på denne oppgaven ligger i gatenavnet.
