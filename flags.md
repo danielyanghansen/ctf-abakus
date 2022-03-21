@@ -25,3 +25,11 @@ Bruk Caesar cipher til å dekode denne strengen: `inevnaguhfrg-pgs-nqn`. Løsnin
 # Flagg 7 (20 poeng)
 Finn ut hva som står i fila `binary.txt` i `Top secret`.  
 *Hint: Binærtall*
+
+# Flagg 8 (10 poeng)
+Tonje er CDO (Chief Design Officer) i Variant. Hva heter mannen hennes? Løsningen på denne oppgaven er mannens fornavn.  
+*Hint: Stalking*
+
+# Flagg 9 (15 poeng)
+To profiler i Variant lager en podkast sammen om JavaScript. Hva heter denne podkasten?
+*Hint: Stalking*
