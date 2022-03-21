@@ -18,6 +18,10 @@ Finn ut hvor bildet `IMG_3813` som ligger i `Top secret` er tatt. Løsningen på
 Logg deg inn med ssh på bandit.labs.overthewire.org på port 2220 med brukernavn `bandit0` og passord `bandit0`. Løsningen på denne oppgaven ligger i readme-filen.  
 *Hint: terminal, ssh, ls, cat*
 
-# Flag 6 (15 poeng)
+# Flagg 6 (15 poeng)
 Bruk Caesar cipher til å dekode denne strengen: `inevnaguhfrg-pgs-nqn`. Løsningen består av tre ekte ord.  
 *Hint: cryptii.com*
+
+# Flagg 7 (20 poeng)
+Finn ut hva som står i fila `binary.txt` i `Top secret`.  
+*Hint: Binærtall*
