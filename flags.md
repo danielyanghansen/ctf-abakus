@@ -15,11 +15,11 @@ Finn ut hvor bildet `IMG_3813` som ligger i `Top secret` er tatt. Løsningen på
 *Hint: EXIF*
 
 # Flagg 5 (20 poeng)
-Logg deg inn med ssh på bandit.labs.overthewire.org på port 2220 med brukernavn `bandit0` og passord `bandit0`. Løsningen på denne oppgaven ligger i readme-filen.  
+Logg deg inn med ssh på bandit.labs.overthewire.org på port 2220 med brukernavn `bandit0` og passord `bandit0`. Løsningen på denne oppgaven ligger i readme-filen. Bruk denne koden til å åpne PDFen som ligger i `Top secret`.
 *Hint: terminal, ssh, ls, cat*
 
 # Flagg 6 (15 poeng)
-Bruk Caesar cipher til å dekode denne strengen: `inevnaguhfrg-pgs-nqn`. Løsningen består av tre ekte ord.  
+Bruk Cæsar-siffer til å dekode denne strengen: `inevnaguhfrg-pgs-nqn`. Løsningen består av tre ekte ord.  
 *Hint: cryptii.com*
 
 # Flagg 7 (20 poeng)
@@ -33,3 +33,7 @@ Tonje er CDO (Chief Design Officer) i Variant. Hva heter mannen hennes? Løsning
 # Flagg 9 (15 poeng)
 To profiler i Variant lager en podkast sammen om JavaScript. Hva heter denne podkasten?
 *Hint: Stalking*
+
+# Flagg 10 (10 poeng)
+Finn koden som er gjemt i `variant-colors.svg` i `Top secret`.  
+*Hint: Kommentar*
