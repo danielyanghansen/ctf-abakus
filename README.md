@@ -12,7 +12,7 @@ Denne CTF'en varer i 1 time. På denne CTF'en gjelder følgende regler:
 3. Dersom dere har løst en oppgave, får dere uansett poeng.
 4. Dersom dere ikke får til en oppgave, kan dere spørre om hjelp. Det gis ikke minuspoeng for dette.
 5. Alle hjelpemidler er lov. 
-6. Løsningen på hver oppgave er et norsk eller engelsk ord som er kryptert ved bruk av Cæsar-siffer. 
+6. Løsningen på hver oppgave er et norsk eller engelsk ord som er kryptert ved bruk av Cæsar-siffer, med mindre oppgaven spesifiserer noe annet.
 7. Flagg kapres ved å hente fysiske flagg hos hovedkvarteret. Det finnes flere flagg per oppgave med tilhørende poeng. Dere må oppgi løsningen på oppgaven for å få flagg. Hvis dere ikke har fått til oppgaven, men har prøvd, kan dere forklare det, og allikevel få flagg (med lavere poeng).
 
 ## Tips
