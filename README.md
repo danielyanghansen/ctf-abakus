@@ -1,4 +1,4 @@
-# Capture the Flag med Jenteprosjektet Ada 29.03.2022
+# Capture the Flag med Abakus 28.04.2022
 
 ## Innledning
 Capture the Flag (CTF) er opprinnelig en utendørssport der to eller flere lag konkurrerer i å fange flagg. Det finnes mange forskjellige varianter av denne leken; en variant er å fange så mange flagg som mulig, en annen er å fange motstanderens flagg, og en tredje er at flaggene er vektet med x antall poeng og at det er om å gjøre å samle så mange poeng som mulig.
