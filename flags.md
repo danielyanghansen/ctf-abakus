@@ -19,7 +19,7 @@ Logg deg inn med ssh på bandit.labs.overthewire.org på port 2220 med brukernav
 
 
 # Flagg 6 (15 poeng)
-Bruk Cæsar-siffer til å dekode denne strengen: `inevnaguhfrg-pgs-nqn`. Løsningen består av tre ekte ord.  
+Bruk Cæsar-siffer til å dekode denne strengen: `inevnaguhfrg-pgs-nonxhf`. Løsningen består av tre ekte ord.  
 
 
 # Flagg 7 (20 poeng)
